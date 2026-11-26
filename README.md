@@ -2,7 +2,7 @@
 
 Ingeniería Informática del Software en la Universidad de Oviedo
 
-Soluciones adaptadas a cada
+Soluciones adaptadas a cada cliente
 ---
 
 #### Proyectos

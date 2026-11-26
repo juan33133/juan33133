@@ -8,11 +8,11 @@ Soluciones adaptadas a cada cliente
 #### Proyectos
 
 **[Daikan Dojo](https://github.com/juan33133/daikandojo)** · [daikandojo.es](https://daikandojo.es)<br>
-Web en producción de una escuela de artes marciales de Málaga. Las 12 páginas de disciplinas se generan a partir de dos JSON que el cliente edita sin tocar código. Antes de cada despliegue pasan tests de datos, una auditoría SEO sobre el HTML generado y Lighthouse CI.<br>
+Web en producción de una escuela de artes marciales de Málaga. Antes de cada despliegue pasan tests de datos, una auditoría SEO sobre el HTML generado y Lighthouse CI.<br>
 `Astro` `TypeScript` `Vitest` `GitHub Actions`
 
 **[Alexcrespo](https:)** · *código privado (proyecto de cliente)*<br>
-Tienda online de fotografía con venta de ediciones limitadas. API REST con pagos Stripe, frontend público y panel de administración. 151 tests de API y 176 de frontend, y una auditoría de seguridad propia con sus correcciones.<br>
+Tienda online de fotografía con venta de ediciones limitadas. API REST con pagos Stripe, frontend público y panel de administración. Tests API y frontend, y una auditoría de seguridad propia con sus correcciones.<br>
 `Spring Boot 3` `PostgreSQL` `Stripe` `Next.js` `Docker`
 
 **[profejuan.io](https://github.com/juan33133/profejuan)** · [profejuan.io](https://profejuan.io)<br>
